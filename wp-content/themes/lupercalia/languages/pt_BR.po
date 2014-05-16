@@ -1,0 +1,798 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lupercalia\n"
+"POT-Creation-Date: 2014-04-06 10:46-0300\n"
+"PO-Revision-Date: 2014-04-06 10:57-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;esc_attr;esc_attr_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../theme_options\n"
+
+#: ../comments.php:5
+msgid ""
+"this post is password protected. Enter the password to view any comments."
+msgstr ""
+"Essa publicação está protegida. Digite a senha para ver os comentários."
+
+#: ../comments.php:28
+#, php-format
+msgid "Leave a comment to %1$s"
+msgstr "Deixe um comentário para %1$s"
+
+#: ../comments.php:36 ../comments.php:55
+msgid "Comment navigation"
+msgstr "Navegação de comentário"
+
+#: ../comments.php:37 ../comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários antigos"
+
+#: ../comments.php:38 ../comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Comentários novos &rarr;"
+
+#: ../comments.php:73
+msgid "Comments are closed."
+msgstr "Publicação com comentários fechados."
+
+#: ../footer.php:11
+msgid "All rights reserved"
+msgstr "Todos os direitos reservados"
+
+#: ../footer.php:13
+msgid "Powered by"
+msgstr "Criado com"
+
+#: ../functions.php:27
+msgid "Navigation Menu"
+msgstr "Menu de navegação"
+
+#: ../functions.php:80
+msgid "Header 1"
+msgstr "Cabeçalho 1"
+
+#: ../functions.php:85
+msgid "Header 2"
+msgstr "Cabeçalho 2"
+
+#: ../functions.php:90
+msgid "Header 3"
+msgstr "Cabeçalho 3"
+
+#: ../functions.php:95
+msgid "Header 4"
+msgstr "Cabeçalho 4"
+
+#: ../functions.php:100
+msgid "Header 5"
+msgstr "Cabeçalho 5"
+
+#: ../functions.php:105
+msgid "Header 6"
+msgstr "Cabeçalho 6"
+
+#: ../functions.php:147
+msgid "Front Page Top Section"
+msgstr "Seção superior da página inicial"
+
+#: ../functions.php:149
+msgid ""
+"This widget is located on the front page below the front page branding area."
+msgstr ""
+"Essa barra lateral está localizada na página inicial do site abaixo do "
+"banner principal."
+
+#: ../functions.php:157
+msgid "Front Page Middle Section 1"
+msgstr "Seção intermediária da página inicial 1"
+
+#: ../functions.php:159 ../functions.php:167 ../functions.php:175
+msgid ""
+"This widget is located on the front page below the front page top section "
+"area."
+msgstr "Essa barra lateral está localizada na página inicial do site."
+
+#: ../functions.php:165
+msgid "Front Page Middle Section 2"
+msgstr "Seção intermediária da página inicial 2"
+
+#: ../functions.php:173
+msgid "Front Page Middle Section 3"
+msgstr "Seção intermediária da página inicial 3"
+
+#: ../functions.php:181
+msgid "Home Sidebar"
+msgstr "Barra Lateral da Home"
+
+#: ../functions.php:183
+msgid "This sidebar is located on the home page of the site."
+msgstr "Essa barra lateral está localizada na home do site."
+
+#: ../functions.php:191
+msgid "Pages Sidebar"
+msgstr "Barra lateral das Páginas Únicas"
+
+#: ../functions.php:193
+msgid "This sidebar is located on the pages of the site."
+msgstr "Essa barra lateral está localizada nas páginas únicas do site."
+
+#: ../functions.php:201
+msgid "Blog Single Pages Sidebar"
+msgstr "Barra lateral (Blog página única)"
+
+#: ../functions.php:203
+msgid "This sidebar is located on the blog single pages of the site."
+msgstr "Essa barra lateral está localizada nas páginas únicas do blog."
+
+#: ../functions.php:211
+msgid "Search Pages Sidebar"
+msgstr "Barra lateral (Página de pesquisa)"
+
+#: ../functions.php:213
+msgid "This sidebar is located on the search pages of the site."
+msgstr "Essa barra lateral está localizada nas páginas de pesquisa do site."
+
+#: ../functions.php:221
+msgid "Archives Sidebar"
+msgstr "Barra lateral (Página de arquivos)"
+
+#: ../functions.php:223
+msgid ""
+"This sidebar is located on the archives/tags/attachments/categories pages of "
+"the site."
+msgstr ""
+"Essa barra lateral está localizada nas páginas de arquivos, tags, anexos e "
+"categorias do site."
+
+#: ../functions.php:231
+msgid "Footer 1"
+msgstr "Rodapé 1"
+
+#: ../functions.php:233 ../functions.php:243 ../functions.php:253
+msgid "This widget is located above the footer area."
+msgstr "Esse widget está localizado acima do rodapé."
+
+#: ../functions.php:241
+msgid "Footer 2"
+msgstr "Rodapé 2"
+
+#: ../functions.php:251
+msgid "Footer 3"
+msgstr "Rodapé 3"
+
+#: ../functions.php:300
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: ../functions.php:408
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../functions.php:412
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../functions.php:416
+msgid "Google+"
+msgstr "Google+"
+
+#: ../functions.php:420
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../functions.php:424
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: ../functions.php:428
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../functions.php:432
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../functions.php:436
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../functions.php:440
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../functions.php:444
+msgid "Youtube"
+msgstr "YouTube"
+
+#: ../functions.php:483
+msgid "Archives"
+msgstr "Arquivos"
+
+#: ../functions.php:495
+msgid "Meta"
+msgstr "Meta"
+
+#: ../functions.php:689
+msgid "You might also like:"
+msgstr "Você também pode gostar de:"
+
+#: ../functions.php:711
+msgid "Last entries from blog:"
+msgstr "Últimas atualizações do blog"
+
+#: ../functions.php:1067
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../functions.php:1068
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../functions.php:1348
+msgid "Tag: "
+msgstr "Tag:"
+
+#: ../functions.php:1353 ../functions.php:1358 ../functions.php:1363
+msgid "Archive: "
+msgstr "Arquivos:"
+
+#: ../functions.php:1371
+msgid "Site archives"
+msgstr "Arquivos do site:"
+
+#: ../functions.php:1374
+msgid "Search result(s) for: "
+msgstr "Resultado da pesquisa para "
+
+#: ../functions.php:1378
+msgid "Error 404: "
+msgstr "Error 404:"
+
+#. translators: 1: date, 2: time
+#: ../functions.php:1546
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s às %2$s"
+
+#: ../functions.php:1546
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../functions.php:1555
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está esperando aprovação."
+
+#: ../index.php:71 ../page.php:54 ../single.php:70
+msgid "Not found"
+msgstr "Nada encontado"
+
+#: ../index.php:72 ../page.php:55 ../single.php:71
+msgid "Error 404"
+msgstr "Error 404"
+
+#: ../index.php:72 ../page.php:55 ../single.php:71
+msgid "We are sorry, but not was found."
+msgstr "Pedimos desculpas, mas não foi encontrado."
+
+#: ../searchform.php:2 ../searchform.php:3
+msgid "Search"
+msgstr "Buscar"
+
+#: ../theme_options/lupercalia_options_page.php:33
+msgid "Theme Option"
+msgstr "Opções do Tema"
+
+#: ../theme_options/lupercalia_options_page.php:131
+msgid "Lupercalia Settings"
+msgstr "Lupercalia Configurações"
+
+#: ../theme_options/lupercalia_options_page.php:142
+msgid ""
+"If you appreciated my work and want to give any contribution, just link on "
+"the button."
+msgstr ""
+"Se você gostou do tema e quer contribuir doando qualquer quantia, click no "
+"botão ao lado."
+
+#: ../theme_options/lupercalia_options_page.php:154
+msgid "Reset to Default?"
+msgstr "Resetar configurações?"
+
+#: ../theme_options/lupercalia_options_page.php:171
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: ../theme_options/lupercalia_options_page.php:173
+msgid "Logo URL"
+msgstr "URL do Logo"
+
+#: ../theme_options/lupercalia_options_page.php:175
+msgid "Breadcumb"
+msgstr "Breadcrumb"
+
+#: ../theme_options/lupercalia_options_page.php:177
+msgid "Color Scheme"
+msgstr "Esquema de Cor"
+
+#: ../theme_options/lupercalia_options_page.php:179
+msgid "Blog featured slider"
+msgstr "Seção destaque do blog"
+
+#: ../theme_options/lupercalia_options_page.php:186
+msgid "Front Page Settings"
+msgstr "Configurações da Página Inicial"
+
+#: ../theme_options/lupercalia_options_page.php:188
+msgid "Bottom Slider Section"
+msgstr "Slider inferior da página inicial"
+
+#: ../theme_options/lupercalia_options_page.php:190
+msgid "Front Page Branding Slider"
+msgstr "Slider da Página Inicial"
+
+#: ../theme_options/lupercalia_options_page.php:197
+msgid "Single blog page settings"
+msgstr "Configurações da página única do blog"
+
+#: ../theme_options/lupercalia_options_page.php:199
+msgid "Related Posts"
+msgstr "Publicações Relacionadas"
+
+#: ../theme_options/lupercalia_options_page.php:206
+msgid "Sidebar Settings"
+msgstr "Configurações das Barras Laterais"
+
+#: ../theme_options/lupercalia_options_page.php:208
+msgid "Sidebar home page position"
+msgstr "Posição da barra lateral no blog"
+
+#: ../theme_options/lupercalia_options_page.php:210
+msgid "Sidebar posts position"
+msgstr "Posição da barra lateral nas plublicações"
+
+#: ../theme_options/lupercalia_options_page.php:212
+msgid "Sidebar pages position"
+msgstr "Posição da barra lateral nas páginas"
+
+#: ../theme_options/lupercalia_options_page.php:214
+msgid "Sidebar search position"
+msgstr "Posição da barra lateral na página de pesquisa"
+
+#: ../theme_options/lupercalia_options_page.php:216
+msgid "Sidebar archive position"
+msgstr "Posição da barra lateral na página de arquivos"
+
+#: ../theme_options/lupercalia_options_page.php:223
+msgid "Contact Settings"
+msgstr "Configurações de contato"
+
+#: ../theme_options/lupercalia_options_page.php:225
+msgid "Facebook URL"
+msgstr "Link do Facebook"
+
+#: ../theme_options/lupercalia_options_page.php:227
+msgid "Flickr URL"
+msgstr "Link do Flickr"
+
+#: ../theme_options/lupercalia_options_page.php:229
+msgid "Google Plus URL"
+msgstr "Link do Google Plus"
+
+#: ../theme_options/lupercalia_options_page.php:231
+msgid "Instagram URL"
+msgstr "Link do Instagram"
+
+#: ../theme_options/lupercalia_options_page.php:233
+msgid "Linkedin URL"
+msgstr "Link do Linkedin"
+
+#: ../theme_options/lupercalia_options_page.php:235
+msgid "Pinterest URL"
+msgstr "Link do Pinterest"
+
+#: ../theme_options/lupercalia_options_page.php:237
+msgid "Twitter URL"
+msgstr "Link do Twitter"
+
+#: ../theme_options/lupercalia_options_page.php:239
+msgid "Tumblr URL"
+msgstr "Link do Tumblr"
+
+#: ../theme_options/lupercalia_options_page.php:241
+msgid "Vimeo URL"
+msgstr "Link do Vimeo"
+
+#: ../theme_options/lupercalia_options_page.php:243
+msgid "YouTube URL"
+msgstr "Link do YouTube"
+
+#: ../theme_options/lupercalia_options_page.php:395
+msgid "Manage your general settings."
+msgstr "Administre as configurações gerais."
+
+#: ../theme_options/lupercalia_options_page.php:402
+msgid "Click on Upload Logo button to upload your logo"
+msgstr "Clique no botão Carregar Logo para carregar seu logo."
+
+#: ../theme_options/lupercalia_options_page.php:405
+msgid "Upload Logo"
+msgstr "Carregar Logo"
+
+#: ../theme_options/lupercalia_options_page.php:412
+msgid "Hide"
+msgstr "Esconder"
+
+#: ../theme_options/lupercalia_options_page.php:443
+#: ../theme_options/lupercalia_options_page.php:570
+#: ../theme_options/lupercalia_options_page.php:727
+msgid "Hide it"
+msgstr "Esconder"
+
+#: ../theme_options/lupercalia_options_page.php:447
+msgid "Enable/Disable featured posts from blog page."
+msgstr "Habiliar/Desabilitar publicações em destaque do blog."
+
+#: ../theme_options/lupercalia_options_page.php:453
+#: ../theme_options/lupercalia_options_page.php:580
+msgid "All categories"
+msgstr "Todas as categorias"
+
+#: ../theme_options/lupercalia_options_page.php:457
+#: ../theme_options/lupercalia_options_page.php:584
+msgid "Choose which category will be displayed."
+msgstr "Escolha qual categoria será mostrada."
+
+#: ../theme_options/lupercalia_options_page.php:467
+#: ../theme_options/lupercalia_options_page.php:594
+msgid "Post(s) offset"
+msgstr "Pular publicacão(ões)"
+
+#: ../theme_options/lupercalia_options_page.php:471
+#: ../theme_options/lupercalia_options_page.php:598
+msgid "Choose how many posts should be skipped."
+msgstr "Escolha quantas publicações serão ignoradas."
+
+#: ../theme_options/lupercalia_options_page.php:493
+#: ../theme_options/lupercalia_options_page.php:620
+#: ../theme_options/lupercalia_options_page.php:753
+msgid "Total of posts"
+msgstr "Publicações totais"
+
+#: ../theme_options/lupercalia_options_page.php:497
+#: ../theme_options/lupercalia_options_page.php:624
+#: ../theme_options/lupercalia_options_page.php:757
+msgid "No. total of post to be displayed."
+msgstr "No. total de publicações a serem mostradas."
+
+#: ../theme_options/lupercalia_options_page.php:507
+#: ../theme_options/lupercalia_options_page.php:634
+#: ../theme_options/lupercalia_options_page.php:767
+msgid "Computer Visible item"
+msgstr "Item(ns) visível(is) (computador)"
+
+#: ../theme_options/lupercalia_options_page.php:511
+#: ../theme_options/lupercalia_options_page.php:638
+#: ../theme_options/lupercalia_options_page.php:771
+msgid ""
+"Pick a number of how many posts will be display by page (computer mode)."
+msgstr ""
+"Escolha o número de publicações que serão mostradas por página. (computador)"
+
+#: ../theme_options/lupercalia_options_page.php:521
+#: ../theme_options/lupercalia_options_page.php:648
+#: ../theme_options/lupercalia_options_page.php:781
+msgid "Mobile visible item"
+msgstr "Item(ns) visível(is) (celular)"
+
+#: ../theme_options/lupercalia_options_page.php:525
+#: ../theme_options/lupercalia_options_page.php:652
+#: ../theme_options/lupercalia_options_page.php:785
+msgid "Pick a number of how many posts will be display by page (mobile mode)."
+msgstr ""
+"Escolha o número de publicações que serão mostradas por página. (celular)"
+
+#: ../theme_options/lupercalia_options_page.php:532
+#: ../theme_options/lupercalia_options_page.php:659
+#: ../theme_options/lupercalia_options_page.php:792
+msgid "Auto play"
+msgstr "Auto-iniciar"
+
+#: ../theme_options/lupercalia_options_page.php:536
+#: ../theme_options/lupercalia_options_page.php:663
+#: ../theme_options/lupercalia_options_page.php:796
+msgid "Enable/Disable slider auto-play."
+msgstr "Habilita/Desabilita a auto-inicialização do slider."
+
+#: ../theme_options/lupercalia_options_page.php:543
+#: ../theme_options/lupercalia_options_page.php:670
+#: ../theme_options/lupercalia_options_page.php:803
+msgid "Random Mode"
+msgstr "Modo aleatório"
+
+#: ../theme_options/lupercalia_options_page.php:547
+#: ../theme_options/lupercalia_options_page.php:674
+#: ../theme_options/lupercalia_options_page.php:807
+msgid "Enable/Disable random featured posts."
+msgstr "Habilita/Desabilita o modo aleatório."
+
+#: ../theme_options/lupercalia_options_page.php:560
+msgid "Manage your front page settings."
+msgstr "Administre as configurações da sua página inicial."
+
+#: ../theme_options/lupercalia_options_page.php:574
+#: ../theme_options/lupercalia_options_page.php:731
+msgid "Enable/Disable featured posts from Front Page Bottom Section."
+msgstr "Habilita/Desabilita publicações em destaque da página inicial."
+
+#: ../theme_options/lupercalia_options_page.php:684
+msgid "Add Slider Item"
+msgstr "Adicionar Item"
+
+#: ../theme_options/lupercalia_options_page.php:693
+msgid "Upload Image"
+msgstr "Carregar Imagem"
+
+#: ../theme_options/lupercalia_options_page.php:704
+msgid "Remove item"
+msgstr "Remover Item"
+
+#: ../theme_options/lupercalia_options_page.php:718
+msgid "Manage your single blog page settings."
+msgstr "Administre as configurações da página única do seu blog."
+
+#: ../theme_options/lupercalia_options_page.php:819
+msgid "Manage your sidebars settings."
+msgstr "Administre as configurações da suas barras laterais."
+
+#: ../theme_options/lupercalia_options_page.php:827
+msgid "Left"
+msgstr "Esquerda"
+
+#: ../theme_options/lupercalia_options_page.php:831
+msgid "Right"
+msgstr "Direita"
+
+#: ../theme_options/lupercalia_options_page.php:891
+msgid "Manage your contacts settings."
+msgstr "Administre as configurações de contato."
+
+#: ../theme_options/lupercalia_options_page.php:895
+msgid "www.facebook.com/username-or-page"
+msgstr "www.facebook.com/usuario-ou-pagina"
+
+#: ../theme_options/lupercalia_options_page.php:901
+msgid "www.flickr.com/photos/username"
+msgstr "www.flickr.com/photos/nome-de-usuario"
+
+#: ../theme_options/lupercalia_options_page.php:907
+msgid "www.plus.google.com/user-number"
+msgstr "www.plus.google.com/numero-usuario-ou-pagina"
+
+#: ../theme_options/lupercalia_options_page.php:913
+msgid "www.instagram.com/username"
+msgstr "www.instagram.com/nome-de-usuario"
+
+#: ../theme_options/lupercalia_options_page.php:919
+msgid "www.linkedin.com/profile/view?id=id-number"
+msgstr "www.linkedin.com/profile/view?id=numero-identificacao"
+
+#: ../theme_options/lupercalia_options_page.php:925
+msgid "www.pinterest.com/username"
+msgstr "www.pinterest.com/nome-de-usuario"
+
+#: ../theme_options/lupercalia_options_page.php:931
+msgid "www.twitter.com/username"
+msgstr "www.twitter.com/nome-de-usuario"
+
+#: ../theme_options/lupercalia_options_page.php:937
+msgid "username.tumblr.com"
+msgstr "nome-de-usuario.tumblr.com"
+
+#: ../theme_options/lupercalia_options_page.php:943
+msgid "www.vimeo.com/user-number"
+msgstr "www.vimeo.com/numero-identificacao"
+
+#: ../theme_options/lupercalia_options_page.php:949
+msgid "www.youtube.com/user/username"
+msgstr "www.youtube.com/user/nome-de-usuario"
+
+#~ msgid "This widget is located on the front page below the header area."
+#~ msgstr "Este widget está localizando na página inicial abaixo do cabeçalho."
+
+#~ msgid "Tablet visible item"
+#~ msgstr "Item(ns) visível(is) (tablet)"
+
+#~ msgid ""
+#~ "Pick a number of how many posts will be display by page (tablet mode)."
+#~ msgstr ""
+#~ "Escolha o número de publicações que serão mostradas por página. (tablet)"
+
+#~ msgid "slider"
+#~ msgstr "slider"
+
+#~ msgid "sliders"
+#~ msgstr "sliders"
+
+#~ msgid "Add New"
+#~ msgstr "Adicionar Novo"
+
+#~ msgid "New Item"
+#~ msgstr "Novo Item"
+
+#~ msgid "Edit Item"
+#~ msgstr "Editar Item"
+
+#~ msgid "No slider found, click on add new to insert a new image"
+#~ msgstr ""
+#~ "Nenhuma imagem encontrada, clique em adicionar novo para incluir uma "
+#~ "imagem."
+
+#~ msgid "Trash is empty"
+#~ msgstr "A lixeira está vazia."
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Instalar plugins obrigatórios"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Plugins instalados"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Instalando plugin %s"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Algo saiu errado com a API do plugin."
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Retornar ao instalador de plugins obrigatórios"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Plugin ativado com sucesso."
+
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "Todos os plugins instalados e ativados com sucesso. %s"
+
+#~ msgid "Something went wrong."
+#~ msgstr "Algo saiu errado."
+
+#~ msgid "Return to the dashboard"
+#~ msgstr "Retornar ao painel inicial."
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgstr "O plugin a seguir foi instalado com sucesso:"
+
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Todos os plugins instalados e ativados com sucesso. %1$s"
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "Dispensar notificação"
+
+#~ msgid "External Link"
+#~ msgstr "Link externo"
+
+#~ msgid "Private Repository"
+#~ msgstr "Repositório privado"
+
+#~ msgid "Pre-Packaged"
+#~ msgstr "Pré-empacotado"
+
+#~ msgid "WordPress Repository"
+#~ msgstr "Repositório WordPress"
+
+#~ msgid "Required"
+#~ msgstr "Obrigatório"
+
+#~ msgid "Recommended"
+#~ msgstr "Recomendado"
+
+#~ msgid "Not Installed"
+#~ msgstr "Não instalado"
+
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Instalado e não ativo"
+
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "Nenhum plugin para instalar ou ativar. <a href=\"%1$s\" title=\"Retornar "
+#~ "ao Painel\">Retornar ao Painel</a>"
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "Source"
+#~ msgstr "Fonte"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Install"
+#~ msgstr "Instalar"
+
+#~ msgid "Activate"
+#~ msgstr "Ativar"
+
+#~ msgid "Install package not available."
+#~ msgstr "Pacote de instalação não disponível."
+
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr ""
+#~ "Baixando pacote de instalão de <span class=\"code\">%s</span>&#8230;"
+
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Descompactando o pacote&#8230;"
+
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Instalando o plugin&#8230;"
+
+#~ msgid "Plugin install failed."
+#~ msgstr "A instalação do plugin falhou."
+
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Plugin instalado com sucesso."
+
+#~ msgid "Plugin activation failed."
+#~ msgstr "A desativação de plugin falhou."
+
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "O processo de instalação foi inicializado. Esse processo pode demorar "
+#~ "dependendo do servidor, por favor, seja paciente. "
+
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s instalado e ativado com sucesso."
+
+#~ msgid "Show Details"
+#~ msgstr "Mostrar detalhes"
+
+#~ msgid "Hide Details"
+#~ msgstr "Esconder detalhes"
+
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Todas as instações e ativações foram completadas."
+
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Instalando e ativando o plugin %1$s (%2$d/%3$d)"
+
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "Começando o processo de instalação. Esse processo pode demorar em alguns "
+#~ "servidores, por favor seja paciente."
+
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr "Ocorreu um erro enquanto instalava %1$s: <strong>%2$s</strong>."
+
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "A instalação de %1$s falhou."
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s instalado com sucesso."
+
+#~ msgid "All installations have been completed."
+#~ msgstr "Toda instalação está completa."
+
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Retornar ao Painel"
+
+#~ msgid "Front Page Featured"
+#~ msgstr "Seção em Destaque "

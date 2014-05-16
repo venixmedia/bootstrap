@@ -1,0 +1,21 @@
+.lupercaliaadmin h3 { background:url('../imgs/header/head-bg5.png') bottom; color:deeppink; padding:10px 10px 0 10px; border-top-left-radius:3px;border-top-right-radius:3px; border-width:1px 1px 0 1px; border-style:solid; border-color:#dedede; margin-bottom:0; }
+
+.lupercaliaadmin p.description { background:url('../imgs/header/head-bg5.png') top; padding:10px; margin:0; border-width:0 1px 1px 1px; 	border-style:solid; border-color:#dedede; }
+
+.lupercaliaadmin .form-table { border-collapse:collapse; margin-top:0; width:100%; margin-bottom:-8px; clear:both; background:#f5f5f5; 	border-width:0 1px 1px 1px; border-style:solid; border-color:#dedede; }
+
+.lupercaliaadmin tbody tr { border-bottom:1px solid #dedede; }
+
+.lupercaliaadmin tbody th { padding:20px 10px 20px 10px; }
+
+.lupercaliaadmin textarea { width:545px; height:200px; }
+
+.table-inner { background:#fafafa; border-width:1px 1px 0 1px; border-style:solid; border-color:#ddd; border-collapse:collapse; }
+
+.table-inner td { border-bottom:1px solid #ddd; }
+
+#p_scents p { background:#ededed; padding:10px; margin:15px 0;}
+
+#addScnt { background:green; color:#fff; padding:8px 15px; text-decoration:none; }
+
+#remScnt { color:red; text-decoration:none; }

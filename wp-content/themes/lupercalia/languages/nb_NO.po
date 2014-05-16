@@ -1,0 +1,721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lupercalia\n"
+"POT-Creation-Date: 2014-04-01 10:00-0000\n"
+"PO-Revision-Date: 2014-04-01 12:37+0100\n"
+"Last-Translator: Espen André Corneliussen <not@applicable.no>\n"
+"Language-Team: akatombo <post@akatombo.no>\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../theme_options\n"
+
+#: ../comments.php:4
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Denne posten er passordbeskyttet. Skriv inn passordet for å lese kommentarer."
+
+#: ../comments.php:25
+#, php-format
+msgid "Leave a comment to %1$s"
+msgstr "Legg igjen en kommentar til %1$s"
+
+#: ../comments.php:33 ../comments.php:52
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: ../comments.php:34 ../comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Eldre kommentarer"
+
+#: ../comments.php:35 ../comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: ../comments.php:66
+msgid "Comments are closed."
+msgstr "Stengt for kommentarer."
+
+#: ../functions.php:27
+msgid "Navigation Menu"
+msgstr "Navigasjonsmeny"
+
+#: ../functions.php:84
+msgid "Header 1"
+msgstr "Hode 1"
+
+#: ../functions.php:89
+msgid "Header 2"
+msgstr "Hode 2"
+
+#: ../functions.php:94
+msgid "Header 3"
+msgstr "Hode 3"
+
+#: ../functions.php:99
+msgid "Header 4"
+msgstr "Hode 4"
+
+#: ../functions.php:104
+msgid "Header 5"
+msgstr "Hode 5"
+
+#: ../functions.php:109
+msgid "Header 6"
+msgstr "Hode 6"
+
+#: ../functions.php:151
+msgid "Front Page Top Section"
+msgstr "Forside toppdel"
+
+#: ../functions.php:153
+msgid ""
+"This widget is located on the front page below the front page branding area."
+msgstr "Denne widgeten er på forsiden under merkevareområdet."
+
+#: ../functions.php:161
+msgid "Front Page Middle Section 1"
+msgstr "Forside midtdel 1"
+
+#: ../functions.php:163 ../functions.php:171 ../functions.php:179
+msgid ""
+"This widget is located on the front page below the front page top section "
+"area."
+msgstr "Denne widgeten er på forsiden under toppdelen."
+
+#: ../functions.php:169
+msgid "Front Page Middle Section 2"
+msgstr "Forside midtdel 2"
+
+#: ../functions.php:177
+msgid "Front Page Middle Section 3"
+msgstr "Forside midtdel 3"
+
+#: ../functions.php:185
+msgid "Home Sidebar"
+msgstr "Hjem-siden sidefelt"
+
+#: ../functions.php:187
+msgid "This sidebar is located on the home page of the site."
+msgstr "Dette sidefeltet er på hjem-siden."
+
+#: ../functions.php:195
+msgid "Pages Sidebar"
+msgstr "Sidefelt - sider"
+
+#: ../functions.php:197
+msgid "This sidebar is located on the pages of the site."
+msgstr "Dette sidefeltet er på nettstedets sider."
+
+#: ../functions.php:205
+msgid "Blog Single Pages Sidebar"
+msgstr "Sidefelt - bloggsider"
+
+#: ../functions.php:207
+msgid "This sidebar is located on the blog single pages of the site."
+msgstr "Dette sidefeltet er på bloggsidene."
+
+#: ../functions.php:215
+msgid "Search Pages Sidebar"
+msgstr "Sidefelt - søkesider"
+
+#: ../functions.php:217
+msgid "This sidebar is located on the search pages of the site."
+msgstr "Dette sidefeltet er på søkesidene."
+
+#: ../functions.php:225
+msgid "Archives Sidebar"
+msgstr "Sidefelt - arkiv"
+
+#: ../functions.php:227
+msgid ""
+"This sidebar is located on the archives/tags/attachments/categories pages of "
+"the site."
+msgstr "Dette sidefeltet er på arkiv/merker/vedlegg/kategori-sidene."
+
+#: ../functions.php:235
+msgid "Footer 1"
+msgstr "Fot 1"
+
+#: ../functions.php:237 ../functions.php:247 ../functions.php:257
+msgid "This widget is located above the footer area."
+msgstr "Denne widgeten er over fotområdet."
+
+#: ../functions.php:245
+msgid "Footer 2"
+msgstr "Fot 2"
+
+#: ../functions.php:255
+msgid "Footer 3"
+msgstr "Fot 3"
+
+#: ../functions.php:304
+#, php-format
+msgid "Page %s"
+msgstr "Side %s"
+
+#: ../functions.php:412
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../functions.php:416
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../functions.php:420
+msgid "Google+"
+msgstr "Google+"
+
+#: ../functions.php:424
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../functions.php:428
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: ../functions.php:432
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../functions.php:436
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../functions.php:440
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../functions.php:444
+msgid "Youtube"
+msgstr "YouTube"
+
+#: ../functions.php:483
+msgid "Archives"
+msgstr "Arkiver"
+
+#: ../functions.php:495
+msgid "Meta"
+msgstr "Meta"
+
+#: ../functions.php:689
+msgid "You might also like:"
+msgstr "Du er kanskje også interessert i:"
+
+#: ../functions.php:711
+msgid "Last entries from blog:"
+msgstr "Siste blogginnlegg:"
+
+#: ../functions.php:1085
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../functions.php:1086
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../functions.php:1366
+msgid "Tag: "
+msgstr "Merke:"
+
+#: ../functions.php:1371 ../functions.php:1376 ../functions.php:1381
+msgid "Archive: "
+msgstr "Arkiv:"
+
+#: ../functions.php:1389
+msgid "Site archives"
+msgstr "Sidearkiver:"
+
+#: ../functions.php:1392
+msgid "Search result(s) for: "
+msgstr "Søkeresultat(er) for:"
+
+#: ../functions.php:1396
+msgid "Error 404: "
+msgstr "Feil 404:"
+
+#. translators: 1: date, 2: time
+#: ../functions.php:1567
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s i %2$s"
+
+#: ../functions.php:1567
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+#: ../functions.php:1576
+msgid "Your comment is awaiting moderation."
+msgstr "Dine kommentarer venter på godkjenning."
+
+#: ../index.php:71 ../page.php:54 ../single.php:70
+msgid "Not found"
+msgstr "Ikke funnet"
+
+#: ../index.php:72 ../page.php:55 ../single.php:71
+msgid "Error 404"
+msgstr "Feil 404"
+
+#: ../index.php:72 ../page.php:55 ../single.php:71
+msgid "We are sorry, but not was found."
+msgstr "Beklager, fant ingenting."
+
+#: ../theme_options/lupercalia_options_page.php:34
+msgid "Theme Option"
+msgstr "Temavalg"
+
+#: ../theme_options/lupercalia_options_page.php:122
+msgid "Lupercalia Settings"
+msgstr "Lupercalia-innstillinger"
+
+#: ../theme_options/lupercalia_options_page.php:133
+msgid ""
+"If you appreciated my work and want to give any contribution, just link on "
+"the button."
+msgstr "Liker du mitt arbeid og ønsker å bidra, bare klikk på knappen."
+
+#: ../theme_options/lupercalia_options_page.php:145
+msgid "Reset to Default?"
+msgstr "Tilbakestill til Standard?"
+
+#: ../theme_options/lupercalia_options_page.php:162
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+#: ../theme_options/lupercalia_options_page.php:164
+msgid "Logo URL"
+msgstr "Logobane"
+
+#: ../theme_options/lupercalia_options_page.php:166
+msgid "Breadcumb"
+msgstr "Brødsmuler"
+
+#: ../theme_options/lupercalia_options_page.php:168
+msgid "Color Scheme"
+msgstr "Fargeskjema"
+
+#: ../theme_options/lupercalia_options_page.php:170
+msgid "Blog featured slider"
+msgstr "Slider for utvalg fra blogg"
+
+#: ../theme_options/lupercalia_options_page.php:177
+msgid "Front Page Settings"
+msgstr "Forside-innstillinger"
+
+#: ../theme_options/lupercalia_options_page.php:179
+msgid "Bottom Slider Section"
+msgstr "Slider for bunnområdet"
+
+#: ../theme_options/lupercalia_options_page.php:181
+msgid "Front Page Branding Slider"
+msgstr "Slider for forside merkevare"
+
+#: ../theme_options/lupercalia_options_page.php:188
+msgid "Single blog page settings"
+msgstr "Bloggside-innstillinger"
+
+#: ../theme_options/lupercalia_options_page.php:190
+msgid "Related Posts"
+msgstr "Relaterte innlegg"
+
+#: ../theme_options/lupercalia_options_page.php:197
+msgid "Sidebar Settings"
+msgstr "Sidefelt-innstillinger"
+
+#: ../theme_options/lupercalia_options_page.php:199
+msgid "Sidebar home page position"
+msgstr "Sidefelt - plassering på hjem-siden"
+
+#: ../theme_options/lupercalia_options_page.php:201
+msgid "Sidebar posts position"
+msgstr "Sidefelt - plassering i innlegg"
+
+#: ../theme_options/lupercalia_options_page.php:203
+msgid "Sidebar pages position"
+msgstr "Sidefelt - plassering på sider"
+
+#: ../theme_options/lupercalia_options_page.php:205
+msgid "Sidebar search position"
+msgstr "Sidefelt - plassering på søkesider"
+
+#: ../theme_options/lupercalia_options_page.php:207
+msgid "Sidebar archive position"
+msgstr "Sidefelt - plassering i arkivsider"
+
+#: ../theme_options/lupercalia_options_page.php:214
+msgid "Contact Settings"
+msgstr "Kontaktinnstillinger"
+
+#: ../theme_options/lupercalia_options_page.php:216
+msgid "Facebook URL"
+msgstr "Facebook-bane"
+
+#: ../theme_options/lupercalia_options_page.php:218
+msgid "Flickr URL"
+msgstr "Flicker-bane"
+
+#: ../theme_options/lupercalia_options_page.php:220
+msgid "Google Plus URL"
+msgstr "Google Plus-bane"
+
+#: ../theme_options/lupercalia_options_page.php:222
+msgid "Instagram URL"
+msgstr "Instagram-bane"
+
+#: ../theme_options/lupercalia_options_page.php:224
+msgid "Linkedin URL"
+msgstr "LinkedIn-bane"
+
+#: ../theme_options/lupercalia_options_page.php:226
+msgid "Pinterest URL"
+msgstr "Pinterest-bane"
+
+#: ../theme_options/lupercalia_options_page.php:228
+msgid "Twitter URL"
+msgstr "Twitter-bane"
+
+#: ../theme_options/lupercalia_options_page.php:230
+msgid "Vimeo URL"
+msgstr "Vimeo-bane"
+
+#: ../theme_options/lupercalia_options_page.php:232
+msgid "YouTube URL"
+msgstr "YouTube-bane"
+
+#: ../theme_options/lupercalia_options_page.php:370
+msgid "Manage your general settings."
+msgstr "Administrer generelle innstillinger."
+
+#: ../theme_options/lupercalia_options_page.php:387
+msgid "Hide"
+msgstr "Gjem"
+
+#: ../theme_options/lupercalia_options_page.php:418
+#: ../theme_options/lupercalia_options_page.php:545
+#: ../theme_options/lupercalia_options_page.php:699
+msgid "Hide it"
+msgstr "Gjem det"
+
+#: ../theme_options/lupercalia_options_page.php:422
+msgid "Enable/Disable featured posts from blog page."
+msgstr "Aktiver/deaktiver utvalgte innlegg fra bloggsider."
+
+#: ../theme_options/lupercalia_options_page.php:428
+#: ../theme_options/lupercalia_options_page.php:555
+msgid "All categories"
+msgstr "Alle kategorier"
+
+#: ../theme_options/lupercalia_options_page.php:432
+#: ../theme_options/lupercalia_options_page.php:559
+msgid "Choose which category will be displayed."
+msgstr "Velg hvilke kategorier som skal vises."
+
+#: ../theme_options/lupercalia_options_page.php:442
+#: ../theme_options/lupercalia_options_page.php:569
+msgid "Post(s) offset"
+msgstr "Innlegg offset"
+
+#: ../theme_options/lupercalia_options_page.php:446
+#: ../theme_options/lupercalia_options_page.php:573
+msgid "Choose how many posts should be skipped."
+msgstr "Velg hvor mange innlegg som skal hoppes over."
+
+#: ../theme_options/lupercalia_options_page.php:468
+#: ../theme_options/lupercalia_options_page.php:595
+#: ../theme_options/lupercalia_options_page.php:725
+msgid "Total of posts"
+msgstr "Totalt antall innlegg"
+
+#: ../theme_options/lupercalia_options_page.php:472
+#: ../theme_options/lupercalia_options_page.php:599
+#: ../theme_options/lupercalia_options_page.php:729
+msgid "No. total of post to be displayed."
+msgstr "Antall poster som skal vises."
+
+#: ../theme_options/lupercalia_options_page.php:482
+#: ../theme_options/lupercalia_options_page.php:609
+#: ../theme_options/lupercalia_options_page.php:739
+msgid "Computer Visible item"
+msgstr "Vises på datamaskin"
+
+#: ../theme_options/lupercalia_options_page.php:486
+#: ../theme_options/lupercalia_options_page.php:613
+#: ../theme_options/lupercalia_options_page.php:743
+msgid ""
+"Pick a number of how many posts will be display by page (computer mode)."
+msgstr "Velg hvor mange innlegg som skal vises per side (datamaskin)."
+
+#: ../theme_options/lupercalia_options_page.php:496
+#: ../theme_options/lupercalia_options_page.php:623
+#: ../theme_options/lupercalia_options_page.php:753
+msgid "Mobile visible item"
+msgstr "Vises på mobile enheter"
+
+#: ../theme_options/lupercalia_options_page.php:500
+#: ../theme_options/lupercalia_options_page.php:627
+#: ../theme_options/lupercalia_options_page.php:757
+msgid "Pick a number of how many posts will be display by page (mobile mode)."
+msgstr "Velg hvor mange innlegg som skal vises per side (mobilenhet)."
+
+#: ../theme_options/lupercalia_options_page.php:507
+#: ../theme_options/lupercalia_options_page.php:634
+#: ../theme_options/lupercalia_options_page.php:764
+msgid "Auto play"
+msgstr "Auto-avspilling"
+
+#: ../theme_options/lupercalia_options_page.php:511
+#: ../theme_options/lupercalia_options_page.php:638
+#: ../theme_options/lupercalia_options_page.php:768
+msgid "Enable/Disable slider auto-play."
+msgstr "Aktiver/deaktiver Slider auto-avspilling."
+
+#: ../theme_options/lupercalia_options_page.php:518
+#: ../theme_options/lupercalia_options_page.php:645
+#: ../theme_options/lupercalia_options_page.php:775
+msgid "Random Mode"
+msgstr "Tilfeldig rekkefølge"
+
+#: ../theme_options/lupercalia_options_page.php:522
+#: ../theme_options/lupercalia_options_page.php:649
+#: ../theme_options/lupercalia_options_page.php:779
+msgid "Enable/Disable random featured posts."
+msgstr "Aktiver/deaktiver tilfeldig utvalgt innlegg."
+
+#: ../theme_options/lupercalia_options_page.php:535
+msgid "Manage your front page settings."
+msgstr "Administrer forside-innstillinger."
+
+#: ../theme_options/lupercalia_options_page.php:549
+#: ../theme_options/lupercalia_options_page.php:703
+msgid "Enable/Disable featured posts from Front Page Bottom Section."
+msgstr "Aktiver/deaktiver utvalgte innlegg fra forsidens bunnområde."
+
+#: ../theme_options/lupercalia_options_page.php:659
+msgid "Add Slider Item"
+msgstr "Legg til slider-element"
+
+#: ../theme_options/lupercalia_options_page.php:676
+msgid "Remove item"
+msgstr "Ta vekk element"
+
+#: ../theme_options/lupercalia_options_page.php:690
+msgid "Manage your single blog page settings."
+msgstr "Administrer bloggside-innstillinger."
+
+#: ../theme_options/lupercalia_options_page.php:791
+msgid "Manage your sidebars settings."
+msgstr "Administrer sidefelt-innstillinger."
+
+#: ../theme_options/lupercalia_options_page.php:799
+msgid "Left"
+msgstr "Venstre"
+
+#: ../theme_options/lupercalia_options_page.php:803
+msgid "Right"
+msgstr "Høyre"
+
+#: ../theme_options/lupercalia_options_page.php:863
+msgid "Manage your contacts settings."
+msgstr "Administrer dine kontakinnstillinger."
+
+#~ msgid "This widget is located on the front page below the header area."
+#~ msgstr "Este widget está localizando na página inicial abaixo do cabeçalho."
+
+#~ msgid "Tablet visible item"
+#~ msgstr "Item(ns) visível(is) (tablet)"
+
+#~ msgid ""
+#~ "Pick a number of how many posts will be display by page (tablet mode)."
+#~ msgstr ""
+#~ "Escolha o número de publicações que serão mostradas por página. (tablet)"
+
+#~ msgid "slider"
+#~ msgstr "slider"
+
+#~ msgid "sliders"
+#~ msgstr "sliders"
+
+#~ msgid "Add New"
+#~ msgstr "Adicionar Novo"
+
+#~ msgid "New Item"
+#~ msgstr "Novo Item"
+
+#~ msgid "Edit Item"
+#~ msgstr "Editar Item"
+
+#~ msgid "Search Itens"
+#~ msgstr "Pesquisar itens"
+
+#~ msgid "No slider found, click on add new to insert a new image"
+#~ msgstr ""
+#~ "Nenhuma imagem encontrada, clique em adicionar novo para incluir uma "
+#~ "imagem."
+
+#~ msgid "Trash is empty"
+#~ msgstr "A lixeira está vazia."
+
+#~ msgid "Install Required Plugins"
+#~ msgstr "Instalar plugins obrigatórios"
+
+#~ msgid "Install Plugins"
+#~ msgstr "Plugins instalados"
+
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Instalando plugin %s"
+
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Algo saiu errado com a API do plugin."
+
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Retornar ao instalador de plugins obrigatórios"
+
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Plugin ativado com sucesso."
+
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "Todos os plugins instalados e ativados com sucesso. %s"
+
+#~ msgid "Something went wrong."
+#~ msgstr "Algo saiu errado."
+
+#~ msgid "Return to the dashboard"
+#~ msgstr "Retornar ao painel inicial."
+
+#~ msgid "The following plugin was activated successfully:"
+#~ msgstr "O plugin a seguir foi instalado com sucesso:"
+
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Todos os plugins instalados e ativados com sucesso. %1$s"
+
+#~ msgid "Dismiss this notice"
+#~ msgstr "Dispensar notificação"
+
+#~ msgid "External Link"
+#~ msgstr "Link externo"
+
+#~ msgid "Private Repository"
+#~ msgstr "Repositório privado"
+
+#~ msgid "Pre-Packaged"
+#~ msgstr "Pré-empacotado"
+
+#~ msgid "WordPress Repository"
+#~ msgstr "Repositório WordPress"
+
+#~ msgid "Required"
+#~ msgstr "Obrigatório"
+
+#~ msgid "Recommended"
+#~ msgstr "Recomendado"
+
+#~ msgid "Not Installed"
+#~ msgstr "Não instalado"
+
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Instalado e não ativo"
+
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "Nenhum plugin para instalar ou ativar. <a href=\"%1$s\" title=\"Retornar "
+#~ "ao Painel\">Retornar ao Painel</a>"
+
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+#~ msgid "Source"
+#~ msgstr "Fonte"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Install"
+#~ msgstr "Instalar"
+
+#~ msgid "Activate"
+#~ msgstr "Ativar"
+
+#~ msgid "Install package not available."
+#~ msgstr "Pacote de instalação não disponível."
+
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr ""
+#~ "Baixando pacote de instalão de <span class=\"code\">%s</span>&#8230;"
+
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Descompactando o pacote&#8230;"
+
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Instalando o plugin&#8230;"
+
+#~ msgid "Plugin install failed."
+#~ msgstr "A instalação do plugin falhou."
+
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Plugin instalado com sucesso."
+
+#~ msgid "Plugin activation failed."
+#~ msgstr "A desativação de plugin falhou."
+
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "O processo de instalação foi inicializado. Esse processo pode demorar "
+#~ "dependendo do servidor, por favor, seja paciente. "
+
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s instalado e ativado com sucesso."
+
+#~ msgid "Show Details"
+#~ msgstr "Mostrar detalhes"
+
+#~ msgid "Hide Details"
+#~ msgstr "Esconder detalhes"
+
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Todas as instações e ativações foram completadas."
+
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Instalando e ativando o plugin %1$s (%2$d/%3$d)"
+
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "Começando o processo de instalação. Esse processo pode demorar em alguns "
+#~ "servidores, por favor seja paciente."
+
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr "Ocorreu um erro enquanto instalava %1$s: <strong>%2$s</strong>."
+
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "A instalação de %1$s falhou."
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s instalado com sucesso."
+
+#~ msgid "All installations have been completed."
+#~ msgstr "Toda instalação está completa."
+
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Retornar ao Painel"
+
+#~ msgid "Front Page Featured"
+#~ msgstr "Seção em Destaque "

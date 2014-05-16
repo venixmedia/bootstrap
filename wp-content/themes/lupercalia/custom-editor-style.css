@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic);
+
+body#tinymce.wp-editor { color:#333; font-family:'Roboto', sans-serif; font-weight:300; line-height:1.6875; margin:10px; }
+
+body#tinymce.wp-editor h1,
+body#tinymce.wp-editor h2,
+body#tinymce.wp-editor h3,
+body#tinymce.wp-editor h4,
+body#tinymce.wp-editor h5,
+body#tinymce.wp-editor h6,
+body#tinymce.wp-editor a { color:deeppink; }
+
+body#tinymce.wp-editor table { width:100%; }

@@ -1,0 +1,25 @@
+body { border-color:darkviolet }
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6, 
+a, 
+.nav-menu .current_page_item > a,
+.nav-menu .current_page_ancestor > a,
+.nav-menu .current-menu-item > a,
+.nav-menu .current-menu-ancestor > a,
+.amazingcarousel-title,
+.widget .widget-title,
+#wp-calendar a { color:darkviolet }
+
+h1.site-title { color:darkviolet!important; }
+
+.nav-menu li a:hover, 
+ul.nav-menu ul a:hover, 
+.nav-menu ul ul a:hover,
+#wp-calendar caption { background:darkviolet; }
+
+.entry-thumbnail img { border-bottom:3px solid darkviolet; }
